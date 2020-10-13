@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Shaolin_Dub_-_08_-_Dynasty_dub.ogg-d465fcd4a33f83a4e056f5ae7bc878fa.oggstr"
+
+[deps]
+
+source_file="res://sounds/Shaolin_Dub_-_08_-_Dynasty_dub.ogg"
+dest_files=[ "res://.import/Shaolin_Dub_-_08_-_Dynasty_dub.ogg-d465fcd4a33f83a4e056f5ae7bc878fa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

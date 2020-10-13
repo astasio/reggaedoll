@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Shaolin_Dub_-_14_-_Warrior_dub.ogg-09c652b6e0e8e77bb1ed2e9715343aca.oggstr"
+
+[deps]
+
+source_file="res://sounds/Shaolin_Dub_-_14_-_Warrior_dub.ogg"
+dest_files=[ "res://.import/Shaolin_Dub_-_14_-_Warrior_dub.ogg-09c652b6e0e8e77bb1ed2e9715343aca.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

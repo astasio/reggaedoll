@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Shaolin_Dub_-_13_-_Bud_dub.ogg-5a06bd506cb1b3710e3e21594ac8dcca.oggstr"
+
+[deps]
+
+source_file="res://sounds/Shaolin_Dub_-_13_-_Bud_dub.ogg"
+dest_files=[ "res://.import/Shaolin_Dub_-_13_-_Bud_dub.ogg-5a06bd506cb1b3710e3e21594ac8dcca.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/nervous.ogg-4a6fdb6db600291c4379fb63e700b767.oggstr"
+
+[deps]
+
+source_file="res://sounds/nervous.ogg"
+dest_files=[ "res://.import/nervous.ogg-4a6fdb6db600291c4379fb63e700b767.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

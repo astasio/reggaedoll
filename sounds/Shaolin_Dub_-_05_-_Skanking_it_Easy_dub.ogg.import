@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Shaolin_Dub_-_05_-_Skanking_it_Easy_dub.ogg-e73421b6c088b56b66a6f103306a66ec.oggstr"
+
+[deps]
+
+source_file="res://sounds/Shaolin_Dub_-_05_-_Skanking_it_Easy_dub.ogg"
+dest_files=[ "res://.import/Shaolin_Dub_-_05_-_Skanking_it_Easy_dub.ogg-e73421b6c088b56b66a6f103306a66ec.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
